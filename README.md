@@ -16,7 +16,7 @@
         <li><p><a> Daewoo <img src="https://i.imgur.com/a05upsN.png"></a></p></li>
         <li><p><a> Toyota <img class="toyota" src="https://i.imgur.com/oo1KpTd.png"></a></p></li>
         </ul>
-        <h2  class="imgg"><img  class="imggg"src="https://img.freepik.com/free-photo/young-couple-choosing-a-car-in-a-car-show-room_1303-15122.jpg"></h2>
+        <h2  class="imgg"><img  class="imggg" src="https://img.freepik.com/free-photo/young-couple-choosing-a-car-in-a-car-show-room_1303-15122.jpg"></h2>
     </main>
     <footer>
         <img src="https://i.imgur.com/SRFafwf.png">
